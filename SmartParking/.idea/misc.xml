@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/drawable/custom_edittext.xml" value="0.1275" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/drawable/regedittext.xml" value="0.1275" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_login.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_login_autorize.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_main_authorize.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_parking_slot1.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_parking_slot2.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_parking_slot3.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_parking_slot4.xml" value="0.2" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_parking_slot5.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_parking_slot6.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_register.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_register_authorize.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/AhmedPC/AndroidStudioProjects/SmartParking/app/src/main/res/layout/activity_start_page.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

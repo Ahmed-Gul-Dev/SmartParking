@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353255971661",
+    "firebase_url": "https://smartparking-bad24-default-rtdb.firebaseio.com",
+    "project_id": "smartparking-bad24",
+    "storage_bucket": "smartparking-bad24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353255971661:android:3d91509f54155fb52e3504",
+        "android_client_info": {
+          "package_name": "com.example.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353255971661-j68v2dn7ojtugk4t0s1kp70mnkt20qfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZTQCOZ741sk61ghR7nqXIWefeJ-qPho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353255971661-j68v2dn7ojtugk4t0s1kp70mnkt20qfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

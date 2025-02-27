@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Register_Authorize">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="60dp"
+        android:gravity="center"
+        android:text="FACULTY REGISTRATION"
+        android:textColor="@color/black"
+        android:textSize="32dp" />
+
+
+    <EditText
+        android:id="@+id/depart"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/title"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/regedittext"
+        android:hint="ENTER DEPARTMENT"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/design"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/depart"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="30dp"
+
+        android:background="@drawable/regedittext"
+        android:hint="ENTER DESIGNATION"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/regNo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/design"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="30dp"
+
+        android:background="@drawable/regedittext"
+        android:hint="ENTER REGISTRATION NO."
+        android:inputType="text"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@id/regNo"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/custom_btn"
+        android:backgroundTint="@color/purple_200"
+        android:onClick="addfaculty"
+        android:text="Add FACULTY"
+        android:textSize="22sp" />
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
